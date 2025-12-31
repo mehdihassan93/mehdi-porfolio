@@ -1,0 +1,37 @@
+# Mehdi Hassan - Android Developer
+
+> Note: This file is optimized for consumption by Large Language Models (LLMs).
+
+## Core Profile
+- **Role**: Android Developer
+- **Company**: AIDEON Limited (London, UK)
+- **Specialization**: High-Performance Mobile Infrastructure, Jetpack Compose, Clean Architecture, Distributed Systems.
+- **Website**: https://www.mehdi-hassan.com
+- **GitHub**: https://github.com/mehdihassan93
+- **LinkedIn**: https://www.linkedin.com/in/mehdihassan93
+
+## Technical Stack
+- **Languages**: Kotlin (Expert), Java, Dart.
+- **UI Frameworks**: Jetpack Compose (Primary), Flutter.
+- **Architecture**: Clean Architecture, MVP/MVVM, Redux-like State Management.
+- **Tools**: Android Studio, Firebase, CI/CD (GitHub Actions), Gradle.
+
+## Key Projects
+1. **Al-Zafar Shopping App**:
+   - *Description*: Enterprise-scale e-commerce platform for the Kenz Hypermarket chain in UAE.
+   - *Tech*: Kotlin, Jetpack Compose, Firebase.
+   - *Scale*: Serving thousands of users with offline-first synchronization.
+
+2. **Syntax Siege**:
+   - *Description*: Educational typing defense game.
+   - *Tech*: Web-based (React/Next.js).
+
+3. **Gravity Lander**:
+   - *Description*: Physics-based lunar landing simulator.
+   - *Tech*: Web-based (React/Canvas).
+
+## Philosophy
+Mehdi Hassan focuses on "Deterministic UI Engineering"—ensuring every frame and interaction is predictable, performant, and premium. He bridges the gap between low-level system performance and elite user experiences.
+
+## Contact
+For professional inquiries, please refer to the contact section on the main website or reach out via LinkedIn.

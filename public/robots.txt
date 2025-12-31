@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.mehdi-hassan.com/sitemap.xml

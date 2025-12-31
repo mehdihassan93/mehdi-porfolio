@@ -1,0 +1,26 @@
+{
+    "name": "Mehdi Hassan | Android Developer",
+    "short_name": "Mehdi Hassan",
+    "description": "Portfolio of Mehdi Hassan, Android Developer specializing in high-performance mobile systems.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#2A363B",
+    "theme_color": "#2A363B",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
